@@ -1,2 +1,4 @@
-# online-cv
-My digital resume that includes my professional development, contact information, education and skills.
+Template Name: Personal
+Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
